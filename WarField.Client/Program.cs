@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace WarField
+namespace WarField.Client
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("// Todo: Client!");
         }
     }
 }
