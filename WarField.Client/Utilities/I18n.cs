@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WarField.Client.Util
+namespace WarField.Client.Utilities
 {
     class I18n
     {

@@ -1,4 +1,4 @@
-﻿namespace WarField.Common
+﻿namespace WarField
 {
     public class WarFieldVersion
     {

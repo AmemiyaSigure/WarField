@@ -2,7 +2,7 @@
 
 namespace WarField.InternalServer
 {
-    public class Class1
+    public class WarFieldServer
     {
     }
 }
