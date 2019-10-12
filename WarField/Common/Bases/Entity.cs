@@ -1,6 +1,6 @@
 ﻿using WarField.Common.Utilities.Mathematics;
 
-namespace WarField.Common.Utilities.Bases
+namespace WarField.Common.Bases
 {
     public abstract class Entity
     {

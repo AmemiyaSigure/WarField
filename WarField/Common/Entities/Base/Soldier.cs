@@ -1,4 +1,4 @@
-﻿using WarField.Common.Utilities.Bases;
+﻿using WarField.Common.Bases;
 using WarField.Common.Utilities.Interfaces;
 using WarField.Common.Utilities.Mathematics;
 

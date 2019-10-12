@@ -9,6 +9,8 @@
     <Folder Include="Common\Entities\Buildings\DefensiveBuildings" />
     <Folder Include="Common\Entities\Buildings\ProductionBuildings" />
     <Folder Include="Common\Entities\Vehicles" />
+    <Folder Include="Common\Bullets\" />
+    <Folder Include="Common\Weapons\" />
   </ItemGroup>
 
 </Project>
