@@ -4,8 +4,7 @@ namespace WarField.Common.Utilities.Interfaces
 {
     public interface IArmor
     {
-        ArmorFor For { get; set; }
-        
-        
+        string Name { get; }
+        ArmorFor For { get; }
     }
 }

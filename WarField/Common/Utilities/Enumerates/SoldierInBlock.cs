@@ -3,7 +3,7 @@
     public enum SoldierInBlock
     {
         Left = 0, 
-        Center = 1, 
+        Front = 1, 
         Right = 2
     }
 }

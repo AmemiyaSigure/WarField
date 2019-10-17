@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Common\Armors\Soldiers" />
+    <Folder Include="Common\Armors\Vehicles" />
     <Folder Include="Common\Entities\Buildings\DefensiveBuildings" />
     <Folder Include="Common\Entities\Buildings\ProductionBuildings" />
     <Folder Include="Common\Entities\Vehicles" />

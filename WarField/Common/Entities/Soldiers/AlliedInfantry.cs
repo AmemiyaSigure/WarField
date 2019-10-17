@@ -4,6 +4,9 @@ namespace WarField.Common.Entities.Soldiers
 {
     public class AlliedInfantry : Infantry
     {
-        
+        public AlliedInfantry()
+        {
+            
+        }
     }
 }
