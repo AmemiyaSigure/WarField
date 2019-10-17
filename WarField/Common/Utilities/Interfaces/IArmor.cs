@@ -6,5 +6,6 @@ namespace WarField.Common.Utilities.Interfaces
     {
         string Name { get; }
         ArmorFor For { get; }
+        double Armor { get; }
     }
 }
