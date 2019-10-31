@@ -1,5 +1,5 @@
-﻿using WarField.Common.Utilities.Enumerates;
-using WarField.Common.Utilities.Interfaces;
+﻿using WarField.Common.Enumerates;
+using WarField.Common.Interfaces;
 
 namespace WarField.Common.Armors.Buildings
 {
@@ -7,11 +7,13 @@ namespace WarField.Common.Armors.Buildings
     {
         public string Name { get; }
         public ArmorFor For { get; }
+        public double Armor { get; }
 
         public ArmorWood()
         {
             Name = "Wood";
             For = ArmorFor.Building;
+            Armor = 100;
         }
     }
 }

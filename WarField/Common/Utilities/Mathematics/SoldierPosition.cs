@@ -1,4 +1,4 @@
-﻿using WarField.Common.Utilities.Enumerates;
+﻿using WarField.Common.Enumerates;
 
 namespace WarField.Common.Utilities.Mathematics
 {

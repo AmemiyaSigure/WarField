@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WarField.Common.Utilities.Enumerates
+namespace WarField.Common.Enumerates
 {
     [Flags]
     public enum AttackTargetAt

@@ -1,14 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using WarField.Common.Utilities.Enumerates;
-using WarField.Common.Utilities.Interfaces;
+using WarField.Common.Enumerates;
+using WarField.Common.Interfaces;
 
 namespace WarField.Common.Armors
 {
     class ArmorNone : IArmor
     {
-        public ArmorFor For { get; } = ArmorFor.Soldier;
-        public double Armor { get; } = 0;
+        public string Name { get; }
+        public ArmorFor For { get; }
+        public double Armor { get; }
+
+        public ArmorNone()
+        {
+            Name = "None";
+            For = ArmorFor.All;
+            Armor = 0;
+        }
     }
 }

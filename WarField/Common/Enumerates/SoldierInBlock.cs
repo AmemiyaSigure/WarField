@@ -1,4 +1,4 @@
-﻿namespace WarField.Common.Utilities.Enumerates
+﻿namespace WarField.Common.Enumerates
 {
     public enum SoldierInBlock
     {
