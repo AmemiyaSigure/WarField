@@ -1,4 +1,4 @@
-﻿namespace WarField.Common.Interfaces
+﻿namespace WarField.Common.Bullets
 {
     public interface IBullet
     {

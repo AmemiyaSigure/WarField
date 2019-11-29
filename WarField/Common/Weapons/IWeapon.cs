@@ -1,6 +1,7 @@
-﻿using WarField.Common.Enumerates;
+﻿using WarField.Common.Bullets;
+using WarField.Common.Enumerates;
 
-namespace WarField.Common.Interfaces
+namespace WarField.Common.Weapons
 {
     public interface IWeapon
     {

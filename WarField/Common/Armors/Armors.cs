@@ -6,7 +6,7 @@ namespace WarField.Common.Armors
     class Armors
     {
         public static IArmor None = new ArmorNone();
-
-        public static IArmor Wood = new ArmorWood();
+        public static IArmorBuilding Wood = new ArmorWood();
+        
     }
 }
